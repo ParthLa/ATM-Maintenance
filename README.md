@@ -1,2 +1,5 @@
 # ATM-Maintenance
 Predicting ATM Failures using Machine Learning Predictions and Classifications
+
+Data Set Links:
+https://bankofbaroda-my.sharepoint.com/personal/atm_monitoring2_bankofbaroda_co_in/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9iYW5rb2ZiYXJvZGEtbXkuc2hhcmVwb2ludC5jb20vOmY6L2cvcGVyc29uYWwvYXRtX21vbml0b3JpbmcyX2JhbmtvZmJhcm9kYV9jb19pbi9FbkFhTW85VW9PRkVqLXFmRUNmSk5qb0JfVlpkajZJaG1JUElOcG1JdXFiaFVnP3J0aW1lPWpjS3Q0OUNjMkVn&id=%2Fpersonal%2Fatm%5Fmonitoring2%5Fbankofbaroda%5Fco%5Fin%2FDocuments
